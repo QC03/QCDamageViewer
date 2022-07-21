@@ -1,0 +1,5 @@
+main : com.github.QCDamageViewer.Main
+name : QCDamageViewer
+version : 0.0.2
+author : QC
+description : QC Damage Indicator
